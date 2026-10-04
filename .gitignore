@@ -1,0 +1,4 @@
+.build/
+CodexRoute.app/
+graphify-out/
+.DS_Store

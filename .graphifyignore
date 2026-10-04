@@ -1,0 +1,5 @@
+# Generated build and app-bundle artifacts are not project architecture.
+.build/
+CodexRoute.app/
+graphify-out/
+.git/
